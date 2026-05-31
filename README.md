@@ -6,7 +6,7 @@ A modern browser-based image editor built using **HTML, CSS, and Vanilla JavaScr
 
 ## 🌐 Live Demo
 
-**🔗 Live Website:** [Click Here]
+**🔗 Live Website:** [https://browserbasedimageeditor.netlify.app/]
 ---
 
 ## ✨ Features
